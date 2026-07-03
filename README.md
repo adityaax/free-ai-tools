@@ -14,13 +14,11 @@ This repository aims to collect them all in one place.
 
 - 🤖 Chatbots & General AI
 - 💻 Coding
-- ✍️ Writing
 - 🎨 Image Generation
 - 🎬 Video Generation
 - 🎙️ Voice Cloning
 - 🎵 Audio & Music
 - 🔍 Search & Research
-- 🧠 Productivity
 - 🌍 Translation
 - 📄 PDF & Documents
 - 🛠️ Other AI Tools
