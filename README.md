@@ -31,7 +31,7 @@ This repository aims to collect them all in one place.
 
 | Capabilities | Tool | Website | Free Limit | Remarks |
 |----------|------|---------|------------|---------|
-| 🤖 🎨 🔍 | ChatGot | https://www.chatgot.io/ | 🟢 Unlimited | AI chatbot assistant - No Cost, No Limits |
+| 🤖 🎨 🔍 📄 | ChatGot | https://www.chatgot.io/ | 🟢 Unlimited | AI chatbot assistant - No Cost, No Limits |
 | 🎨 | Perchance AI Text-to-Image | https://perchance.org/ai-text-to-image-generator | 🟢 Unlimited | No signup, multiple styles |
 | 🤖 🎨 🔍 | Venice AI | https://venice.ai/ | 🔵 Resetting Limits | Privacy-focused, uncensored AI |
 | 🎙️ | Dubbing AI | https://dubbingai.io/ | 🔵 Resetting Limits | Real-time AI voice changer with 1000+ voices |
