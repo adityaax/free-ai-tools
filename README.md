@@ -33,6 +33,7 @@ This repository aims to collect them all in one place.
 | 🎨 | Perchance AI Text-to-Image | https://perchance.org/ai-text-to-image-generator | 🟢 Unlimited | No signup, multiple styles |
 | 🤖 🎨 🔍 | Venice AI | https://venice.ai/ | 🔵 Resetting Limits | Privacy-focused, uncensored AI |
 | 🎙️ | Dubbing AI | https://dubbingai.io/ | 🔵 Resetting Limits | Real-time AI voice changer with 1000+ voices |
+| 🎵 | Sarvam AI | https://www.sarvam.ai/ | 🔴 Limited | Generate realistic speech in multiple Indian languages |
 
 ---
 
