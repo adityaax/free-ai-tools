@@ -39,6 +39,7 @@ This repository aims to collect them all in one place.
 | 🎨 🎬 | ZSky AI | https://zsky.ai/ | 🟢 Unlimited | Unlimited image + video generation. Not a trial — no card, no lock-in |
 | 🤖 🛠️ | miniapps.ai | https://miniapps.ai/ | 🔴 Limited | No-code platform for creating and sharing AI mini-apps |
 | 🎨 🎬 🎵 🎭 👔 | Magic Hour | https://magichour.ai/ | 🔵 Resetting Limits | Daily free credits, Watermarked exports |
+| 🎵 | Treblo | https://treblo.com/ | 🟢 Unlimited | Truly free, Create unlimited songs |
 
 ---
 
