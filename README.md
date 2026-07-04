@@ -35,6 +35,7 @@ This repository aims to collect them all in one place.
 | 🎙️ | Dubbing AI | https://dubbingai.io/ | 🔵 Resetting Limits | Real-time AI voice changer with 1000+ voices |
 | 🎵 | Sarvam AI | https://www.sarvam.ai/ | 🔴 Limited | Generate realistic speech in multiple Indian languages |
 | 🎨 🎬 | ZSky AI | https://zsky.ai/ | 🟢 Unlimited | Unlimited image + video generation. Not a trial — no card, no lock-in. |
+| 🤖 🛠️ | miniapps.ai | https://miniapps.ai/ | 🔴 Limited | No-code platform for creating and sharing AI mini-apps |
 
 ---
 
