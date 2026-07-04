@@ -21,6 +21,8 @@ This repository aims to collect them all in one place.
 - 🔍 Search & Research
 - 🌍 Translation
 - 📄 PDF & Documents
+- 🎭 Face Swap
+- 👔 Clothes Changer
 - 🛠️ Other AI Tools
 
 ---
@@ -34,8 +36,9 @@ This repository aims to collect them all in one place.
 | 🤖 🎨 🔍 | Venice AI | https://venice.ai/ | 🔵 Resetting Limits | Privacy-focused, uncensored AI |
 | 🎙️ | Dubbing AI | https://dubbingai.io/ | 🔵 Resetting Limits | Real-time AI voice changer with 1000+ voices |
 | 🎵 | Sarvam AI | https://www.sarvam.ai/ | 🔴 Limited | Generate realistic speech in multiple Indian languages |
-| 🎨 🎬 | ZSky AI | https://zsky.ai/ | 🟢 Unlimited | Unlimited image + video generation. Not a trial — no card, no lock-in. |
+| 🎨 🎬 | ZSky AI | https://zsky.ai/ | 🟢 Unlimited | Unlimited image + video generation. Not a trial — no card, no lock-in |
 | 🤖 🛠️ | miniapps.ai | https://miniapps.ai/ | 🔴 Limited | No-code platform for creating and sharing AI mini-apps |
+| 🎨 🎬 🎵 🎭 👔 | Magic Hour | https://magichour.ai/ | 🔵 Resetting Limits | Daily free credits, Watermarked exports |
 
 ---
 
