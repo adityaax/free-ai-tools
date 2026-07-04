@@ -40,6 +40,7 @@ This repository aims to collect them all in one place.
 | 🤖 🛠️ | miniapps.ai | https://miniapps.ai/ | 🔴 Limited | No-code platform for creating and sharing AI mini-apps |
 | 🎨 🎬 🎵 🎭 👔 | Magic Hour | https://magichour.ai/ | 🔵 Resetting Limits | Daily free credits, Watermarked exports |
 | 🎵 | Treblo | https://treblo.com/ | 🟢 Unlimited | Truly free, Create unlimited songs |
+| 🤖 | SpicyChat AI | https://spicychat.ai/ | 🟢 Unlimited | NSFW AI chat, Ads on free plan |
 
 ---
 
