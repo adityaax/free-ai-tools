@@ -97,6 +97,8 @@ Please include:
 ---
 
 ## ⚠️ Note
+🔞 Some listed tools may include NSFW (18+) content. Use at your own discretion.
+
 AI companies may change their pricing, free tiers, or usage limits at any time. As a result, some tools listed here as Free or Unlimited may no longer be available under those terms.
 
 🛠️ If you find any outdated or incorrect information, please open an issue. Your contribution helps keep this repository accurate and up to date. ❤️
