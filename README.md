@@ -13,6 +13,7 @@ This repository aims to collect them all in one place.
 ## 📦 What You'll Find
 
 - 🤖 Chatbots & General AI
+- 🧠 AI Agents
 - 💻 Coding
 - 🎨 Image Generation
 - 🎬 Video Generation
@@ -47,6 +48,7 @@ This repository aims to collect them all in one place.
 | 🎨 🎬 | Vheer | https://vheer.com/ | 🟢 Unlimited | Free tier with unlimited generations, no signup, watermark-free exports |
 | 🎨 | Creen | https://www.creen.ai/ai-image-generator | 🟢 Unlimited | Create Stunning AI Images, Free & Unlimited |
 | 🤖 | Overchat AI | https://overchat.ai/chat/chatgpt-free | 🟢 Unlimited | Free ChatGPT — enjoy unlimited, Without login |
+| 🧠 | Dokobot | https://dokobot.ai/ | 🟢 Unlimited | Free unlimited local browser bridge for AI agents |
 
 ---
 
