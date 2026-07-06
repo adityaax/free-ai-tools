@@ -25,6 +25,7 @@ This repository aims to collect them all in one place.
 - 📄 PDF & Documents
 - 🎭 Face Swap
 - 👔 Clothes Changer
+- 🕵️ AI Detection
 - 🛠️ Other AI Tools
 
 ---
@@ -50,6 +51,7 @@ This repository aims to collect them all in one place.
 | 🤖 | Overchat AI | https://overchat.ai/chat/chatgpt-free | 🟢 Unlimited | Free ChatGPT — enjoy unlimited, Without login |
 | 🧠 | Dokobot | https://dokobot.ai/ | 🟢 Unlimited | Free unlimited local browser bridge for AI agents |
 | 🎧 | Audio Converter AI | https://audioconverter.ai/mp3-to-text | 🟢 Unlimited | Get accurate transcripts - Free, No sign-up, Unlimited |
+| 🕵️ | MyDetector | https://mydetector.ai/ | 🟢 Unlimited | High-quality AI detection tool - No restrictions |
 
 ---
 
