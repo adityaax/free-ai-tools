@@ -18,6 +18,7 @@ This repository aims to collect them all in one place.
 - 🎬 Video Generation
 - 🎙️ Voice Cloning
 - 🎵 Audio & Music
+- 🎧 Audio to Text
 - 🔍 Search & Research
 - 🌍 Translation
 - 📄 PDF & Documents
@@ -41,6 +42,11 @@ This repository aims to collect them all in one place.
 | 🎨 🎬 🎵 🎭 👔 | Magic Hour | https://magichour.ai/ | 🔵 Resetting Limits | Daily free credits, Watermarked exports |
 | 🎵 | Treblo | https://treblo.com/ | 🟢 Unlimited | Truly free, Create unlimited songs |
 | 🤖 | SpicyChat AI | https://spicychat.ai/ | 🟢 Unlimited | NSFW AI chat, Ads on free plan |
+| 🎧 | Meetily | https://meetily.ai/free-transcription | 🟢 Unlimited | Free community edition for personal use, No minute limits |
+| 🎨 | Aitubo | https://aitubo.ai/free-ai-image-generator/ | 🟢 Unlimited | Unlimited AI Art Generation (No Login) |
+| 🎨 🎬 | Vheer | https://vheer.com/ | 🟢 Unlimited | Free tier with unlimited generations, no signup, watermark-free exports |
+| 🎨 | Creen | https://www.creen.ai/ai-image-generator | 🟢 Unlimited | Create Stunning AI Images, Free & Unlimited |
+| 🤖 | Overchat AI | https://overchat.ai/chat/chatgpt-free | 🟢 Unlimited | Free ChatGPT — enjoy unlimited, Without login |
 
 ---
 
