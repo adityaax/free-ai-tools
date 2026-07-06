@@ -30,31 +30,31 @@ This repository aims to collect them all in one place.
 
 ## 🧰 Free AI Tool Directory
 
-| Capabilities | Tool | Website | Free Limit | Remarks |
-|----------|------|---------|------------|---------|
-| 🤖 🎨 🔍 📄 | ChatGot | https://www.chatgot.io/ | 🟢 Unlimited | AI chatbot assistant - No Cost, No Limits |
-| 🎨 | Perchance AI Text-to-Image | https://perchance.org/ai-text-to-image-generator | 🟢 Unlimited | No signup, multiple styles |
-| 🤖 🎨 🔍 | Venice AI | https://venice.ai/ | 🔵 Resetting Limits | Privacy-focused, uncensored AI |
-| 🎙️ | Dubbing AI | https://dubbingai.io/ | 🔵 Resetting Limits | Real-time AI voice changer with 1000+ voices |
-| 🎵 | Sarvam AI | https://www.sarvam.ai/ | 🔴 Limited | Generate realistic speech in multiple Indian languages |
-| 🎨 🎬 | ZSky AI | https://zsky.ai/ | 🟢 Unlimited | Unlimited image + video generation. Not a trial — no card, no lock-in |
-| 🤖 🛠️ | miniapps.ai | https://miniapps.ai/ | 🔴 Limited | No-code platform for creating and sharing AI mini-apps |
-| 🎨 🎬 🎵 🎭 👔 | Magic Hour | https://magichour.ai/ | 🔵 Resetting Limits | Daily free credits, Watermarked exports |
-| 🎵 | Treblo | https://treblo.com/ | 🟢 Unlimited | Truly free, Create unlimited songs |
-| 🤖 | SpicyChat AI | https://spicychat.ai/ | 🟢 Unlimited | NSFW AI chat, Ads on free plan |
-| 🎧 | Meetily | https://meetily.ai/free-transcription | 🟢 Unlimited | Free community edition for personal use, No minute limits |
-| 🎨 | Aitubo | https://aitubo.ai/free-ai-image-generator/ | 🟢 Unlimited | Unlimited AI Art Generation (No Login) |
-| 🎨 🎬 | Vheer | https://vheer.com/ | 🟢 Unlimited | Free tier with unlimited generations, no signup, watermark-free exports |
-| 🎨 | Creen | https://www.creen.ai/ai-image-generator | 🟢 Unlimited | Create Stunning AI Images, Free & Unlimited |
-| 🤖 | Overchat AI | https://overchat.ai/chat/chatgpt-free | 🟢 Unlimited | Free ChatGPT — enjoy unlimited, Without login |
-| 🧠 | Dokobot | https://dokobot.ai/ | 🟢 Unlimited | Free unlimited local browser bridge for AI agents |
-| 🎧 | Audio Converter AI | https://audioconverter.ai/mp3-to-text | 🟢 Unlimited | Get accurate transcripts - Free, No sign-up, Unlimited |
-| 🕵️ | MyDetector | https://mydetector.ai/ | 🟢 Unlimited | High-quality AI detection tool - No restrictions |
-| 🎬 🎭 🎙️ | Makefun | https://makefun.ai/pricing/ | 🔵 Resetting Limits | AI Avatar, Voice Clone, Face Swap, Image-to-Video & More |
-| 🤖 | Talefy | https://talefy.ai/generate-story | 🟢 Unlimited | AI story generator (free, unlimited, no sign-up) |
-| 🎬 | Gling | https://www.gling.ai/ | 🔵 Resetting Limits | AI-powered video editing tool |
-| 🤖 | Edubrain | https://edubrain.ai/ | 🟢 Unlimited | Free plan offers unlimited usage |
-| 🤖 🎨 🎬 | FreeGF AI | https://freegf.ai/ | 🟢 Unlimited | Free unlimited AI chat with NSFW, image, and video generation |
+| S.No. | Capabilities | Tool | Website | Free Limit | Remarks |
+|-------|--------------|------|---------|------------|---------|
+| 1 | 🤖 🎨 🔍 📄 | ChatGot | https://www.chatgot.io/ | 🟢 Unlimited | AI chatbot assistant - No Cost, No Limits |
+| 2 | 🎨 | Perchance AI Text-to-Image | https://perchance.org/ai-text-to-image-generator | 🟢 Unlimited | No signup, multiple styles |
+| 3 | 🤖 🎨 🔍 | Venice AI | https://venice.ai/ | 🔵 Resetting Limits | Privacy-focused, uncensored AI |
+| 4 | 🎙️ | Dubbing AI | https://dubbingai.io/ | 🔵 Resetting Limits | Real-time AI voice changer with 1000+ voices |
+| 5 | 🎵 | Sarvam AI | https://www.sarvam.ai/ | 🔴 Limited | Generate realistic speech in multiple Indian languages |
+| 6 | 🎨 🎬 | ZSky AI | https://zsky.ai/ | 🟢 Unlimited | Unlimited image + video generation. Not a trial — no card, no lock-in |
+| 7 | 🤖 🛠️ | miniapps.ai | https://miniapps.ai/ | 🔴 Limited | No-code platform for creating and sharing AI mini-apps |
+| 8 | 🎨 🎬 🎵 🎭 👔 | Magic Hour | https://magichour.ai/ | 🔵 Resetting Limits | Daily free credits, Watermarked exports |
+| 9 | 🎵 | Treblo | https://treblo.com/ | 🟢 Unlimited | Truly free, Create unlimited songs |
+| 10 | 🤖 | SpicyChat AI | https://spicychat.ai/ | 🟢 Unlimited | NSFW AI chat, Ads on free plan |
+| 11 | 🎧 | Meetily | https://meetily.ai/free-transcription | 🟢 Unlimited | Free community edition for personal use, No minute limits |
+| 12 | 🎨 | Aitubo | https://aitubo.ai/free-ai-image-generator/ | 🟢 Unlimited | Unlimited AI Art Generation (No Login) |
+| 13 | 🎨 🎬 | Vheer | https://vheer.com/ | 🟢 Unlimited | Free tier with unlimited generations, no signup, watermark-free exports |
+| 14 | 🎨 | Creen | https://www.creen.ai/ai-image-generator | 🟢 Unlimited | Create Stunning AI Images, Free & Unlimited |
+| 15 | 🤖 | Overchat AI | https://overchat.ai/chat/chatgpt-free | 🟢 Unlimited | Free ChatGPT — enjoy unlimited, Without login |
+| 16 | 🧠 | Dokobot | https://dokobot.ai/ | 🟢 Unlimited | Free unlimited local browser bridge for AI agents |
+| 17 | 🎧 | Audio Converter AI | https://audioconverter.ai/mp3-to-text | 🟢 Unlimited | Get accurate transcripts - Free, No sign-up, Unlimited |
+| 18 | 🕵️ | MyDetector | https://mydetector.ai/ | 🟢 Unlimited | High-quality AI detection tool - No restrictions |
+| 19 | 🎬 🎭 🎙️ | Makefun | https://makefun.ai/pricing/ | 🔵 Resetting Limits | AI Avatar, Voice Clone, Face Swap, Image-to-Video & More |
+| 20 | 🤖 | Talefy | https://talefy.ai/generate-story | 🟢 Unlimited | AI story generator (free, unlimited, no sign-up) |
+| 21 | 🎬 | Gling | https://www.gling.ai/ | 🔵 Resetting Limits | AI-powered video editing tool |
+| 22 | 🤖 | Edubrain | https://edubrain.ai/ | 🟢 Unlimited | Free plan offers unlimited usage |
+| 23 | 🤖 🎨 🎬 | FreeGF AI | https://freegf.ai/ | 🟢 Unlimited | Free unlimited AI chat with NSFW, image, and video generation |
 
 ---
 
