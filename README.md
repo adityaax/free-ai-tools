@@ -50,6 +50,11 @@ This repository aims to collect them all in one place.
 | 🧠 | Dokobot | https://dokobot.ai/ | 🟢 Unlimited | Free unlimited local browser bridge for AI agents |
 | 🎧 | Audio Converter AI | https://audioconverter.ai/mp3-to-text | 🟢 Unlimited | Get accurate transcripts - Free, No sign-up, Unlimited |
 | 🕵️ | MyDetector | https://mydetector.ai/ | 🟢 Unlimited | High-quality AI detection tool - No restrictions |
+| 🎬 🎭 🎙️ | Makefun | https://makefun.ai/pricing/ | 🔵 Resetting Limits | AI Avatar, Voice Clone, Face Swap, Image-to-Video & More |
+| 🤖 | Talefy | https://talefy.ai/generate-story | 🟢 Unlimited | AI story generator (free, unlimited, no sign-up) |
+| 🎬 | Gling | https://www.gling.ai/ | 🔵 Resetting Limits | AI-powered video editing tool |
+| 🤖 | Edubrain | https://edubrain.ai/ | 🟢 Unlimited | Free plan offers unlimited usage |
+| 🤖 🎨 🎬 | FreeGF AI | https://freegf.ai/ | 🟢 Unlimited | Free unlimited AI chat with NSFW, image, and video generation |
 
 ---
 
