@@ -20,6 +20,7 @@ This repository aims to collect them all in one place.
 - 🎧 Audio to Text
 - 🔍 Search & Research
 - 🌍 Translation
+- 🧠 Mind Mapping
 - 📄 PDF & Documents
 - 🎭 Face Swap
 - 👔 Clothes Changer
@@ -55,6 +56,7 @@ This repository aims to collect them all in one place.
 | 21 | 🎬 | Gling | https://www.gling.ai/ | 🔵 Resetting Limits | AI-powered video editing tool |
 | 22 | 🤖 | Edubrain | https://edubrain.ai/ | 🟢 Unlimited | Free plan offers unlimited usage |
 | 23 | 🤖 🎨 🎬 | FreeGF AI | https://freegf.ai/ | 🟢 Unlimited | Free unlimited AI chat with NSFW, image, and video generation |
+| 24 | 🧠 | MindMap AI | https://mindmapai.app/ | 🔵 Resetting Limits | 50 AI credits/month, Unlimited manual mind maps |
 
 ---
 
