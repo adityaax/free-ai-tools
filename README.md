@@ -21,6 +21,7 @@ This repository aims to collect them all in one place.
 - 🔍 Search & Research
 - 🌍 Translation
 - 🧠 Mind Mapping
+- 📚 Education
 - 📄 PDF & Documents
 - 🎭 Face Swap
 - 👔 Clothes Changer
@@ -57,6 +58,7 @@ This repository aims to collect them all in one place.
 | 22 | 🤖 | Edubrain | https://edubrain.ai/ | 🟢 Unlimited | Free plan offers unlimited usage |
 | 23 | 🤖 🎨 🎬 | FreeGF AI | https://freegf.ai/ | 🟢 Unlimited | Free unlimited AI chat with NSFW, image, and video generation |
 | 24 | 🧠 | MindMap AI | https://mindmapai.app/ | 🔵 Resetting Limits | 50 AI credits/month, Unlimited manual mind maps |
+| 25 | 📚 | Notegrade.ai | https://notegrade.ai/ | 🔵 Resetting Limits | AI-powered teaching assistant |
 
 ---
 
