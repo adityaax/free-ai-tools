@@ -26,6 +26,7 @@ This repository aims to collect them all in one place.
 - 🎭 Face Swap
 - 👔 Clothes Changer
 - 🕵️ AI Detection
+- 🧑 AI Humanizer
 - 🛠️ Other AI Tools
 
 ---
