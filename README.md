@@ -61,6 +61,10 @@ This repository aims to collect them all in one place.
 | 24 | 🧠 | MindMap AI | https://mindmapai.app/ | 🔵 Resetting Limits | 50 AI credits/month, Unlimited manual mind maps |
 | 25 | 📚 | Notegrade.ai | https://notegrade.ai/ | 🔵 Resetting Limits | AI-powered teaching assistant |
 | 26 | 🤖 | Unlimited AI | https://unlimitedai.org/ | 🟢 Unlimited | No Login, Unlimited AI Chat |
+| 27 | 🤖 | Unlimited AI Tools | https://unlimitedai.tools/ | 🔵 Resetting Limits | 30+ AI tools in one platform |
+| 28 | 🎨 | There's An AI For That | https://theresanaiforthat.com/@taaft/image-generator/ | 🟢 Unlimited | Unlimited Free AI Image Generator |
+| 29 | 🧑 | SuperHumanizer | https://superhumanizer.ai/ | 🟢 Unlimited | Free AI humanizer with unlimited usage (1,200 words per request) |
+| 30 | 🎬 | VideoPlus.ai | https://videoplus.ai/ | 🔴 Limited | Text & image to AI videos |
 
 ---
 
