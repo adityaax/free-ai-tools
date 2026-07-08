@@ -59,6 +59,7 @@ This repository aims to collect them all in one place.
 | 23 | 🤖 🎨 🎬 | FreeGF AI | https://freegf.ai/ | 🟢 Unlimited | Free unlimited AI chat with NSFW, image, and video generation |
 | 24 | 🧠 | MindMap AI | https://mindmapai.app/ | 🔵 Resetting Limits | 50 AI credits/month, Unlimited manual mind maps |
 | 25 | 📚 | Notegrade.ai | https://notegrade.ai/ | 🔵 Resetting Limits | AI-powered teaching assistant |
+| 26 | 🤖 | Unlimited AI | https://unlimitedai.org/ | 🟢 Unlimited | No Login, Unlimited AI Chat |
 
 ---
 
