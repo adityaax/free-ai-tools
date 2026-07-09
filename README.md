@@ -65,6 +65,7 @@ This repository aims to collect them all in one place.
 | 28 | 🎨 | There's An AI For That | https://theresanaiforthat.com/@taaft/image-generator/ | 🟢 Unlimited | Unlimited Free AI Image Generator |
 | 29 | 🧑 | SuperHumanizer | https://superhumanizer.ai/ | 🟢 Unlimited | Free AI humanizer with unlimited usage (1,200 words per request) |
 | 30 | 🎬 | VideoPlus.ai | https://videoplus.ai/ | 🔴 Limited | Text & image to AI videos |
+| 31 | 🤖 🎨 🎬  | NoFilterGpt | https://nofiltergpt.com/ | 🔵 Resetting Limits | Anonymous, Unfiltered, Uncensored AI chat |
 
 ---
 
