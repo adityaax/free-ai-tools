@@ -68,6 +68,7 @@ This repository aims to collect them all in one place.
 | 30 | 🎬 | VideoPlus.ai | https://videoplus.ai/ | 🔴 Limited | Text & image to AI videos |
 | 31 | 🤖 🎨 🎬  | NoFilterGpt | https://nofiltergpt.com/ | 🔵 Resetting Limits | Anonymous, Unfiltered, Uncensored AI chat |
 | 32 | ✍️ | aiWriter.ai | https://aiwriter.ai/unfiltered | 🟢 Unlimited | Unfiltered, Uncensored AI Story Writer - No Restrictions, No Limits, No Filters |
+| 33 | 🤖 | Unlimited AI Chat | https://app.unlimitedai.chat/ | 🔵 Resetting Limits | AI without limits or restrictions |
 
 ---
 
