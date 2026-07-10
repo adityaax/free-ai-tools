@@ -49,7 +49,7 @@ This repository aims to collect them all in one place.
 | 11 | 🎧 | Meetily | https://meetily.ai/free-transcription | 🟢 Unlimited | Free community edition for personal use, No minute limits |
 | 12 | 🎨 | Aitubo | https://aitubo.ai/free-ai-image-generator/ | 🟢 Unlimited | Unlimited AI Art Generation (No Login) |
 | 13 | 🎨 🎬 | Vheer | https://vheer.com/ | 🟢 Unlimited | Free tier with unlimited generations, no signup, watermark-free exports |
-| 14 | 🎨 | Creen | https://www.creen.ai/ai-image-generator | 🟢 Unlimited | Create Stunning AI Images, Free & Unlimited |
+| 14 | 🎨 🎬 | Creen | https://www.creen.ai/ai-image-generator | 🔵 Resetting Limits | Create Stunning AI images, videos, Free |
 | 15 | 🤖 | Overchat AI | https://overchat.ai/chat/chatgpt-free | 🟢 Unlimited | Free ChatGPT — enjoy unlimited, Without login |
 | 16 | 🧩 | Dokobot | https://dokobot.ai/ | 🟢 Unlimited | Free unlimited local browser bridge for AI agents |
 | 17 | 🎧 | Audio Converter AI | https://audioconverter.ai/mp3-to-text | 🟢 Unlimited | Get accurate transcripts - Free, No sign-up, Unlimited |
