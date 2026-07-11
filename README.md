@@ -70,7 +70,7 @@ This repository aims to collect them all in one place.
 | 32 | ✍️ | aiWriter.ai | https://aiwriter.ai/unfiltered | 🟢 Unlimited | Unfiltered, Uncensored AI Story Writer - No Restrictions, No Limits, No Filters |
 | 33 | 🤖 | Unlimited AI Chat | https://app.unlimitedai.chat/ | 🔵 Resetting Limits | AI without limits or restrictions |
 | 34 | 🎨 | Raphael AI | https://raphael.app/ | 🟢 Unlimited | Create stunning images, No login, Unlimited free generations |
-| 35 | 🎨 | FreeForAI | https://draw.freeforai.com/ | 🟢 Unlimited | Free unlimited AI image generator |
+| 35 | 🎨 | FreeForAI | https://draw.freeforai.com/ | 🟢 Unlimited | Free unlimited stunning AI image generator |
 
 ---
 
