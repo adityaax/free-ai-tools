@@ -71,7 +71,7 @@ This repository aims to collect them all in one place.
 | 33 | 🤖 | Unlimited AI Chat | https://app.unlimitedai.chat/ | 🔵 Resetting Limits | AI without limits or restrictions |
 | 34 | 🎨 | Raphael AI | https://raphael.app/ | 🟢 Unlimited | Create stunning images, No login, Unlimited free generations |
 | 35 | 🎨 | FreeForAI | https://draw.freeforai.com/ | 🟢 Unlimited | Free unlimited stunning AI image generator |
-| 36 | 🤖 🎨 🎬 | HackAIGC | https://www.hackaigc.com/ | 🔵 Resetting Limits | Uncensored AI chats, NSFW image generation, NSFW video generation |
+| 36 | 🤖 ✍️ 💻 🎨 🎬 | HackAIGC | https://www.hackaigc.com/ | 🔵 Resetting Limits | Uncensored AI chats, NSFW image generation, NSFW video generation |
 | 37 | 🎨 | HiDream AI | https://hidream.org/ai-image-generator | 🟢 Unlimited | Unlimited free AI image generator |
 
 ---
