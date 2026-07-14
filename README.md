@@ -39,7 +39,7 @@ This repository aims to collect them all in one place.
 |-------|--------------|------|---------|------------|---------|
 | 1 | 🤖 🎨 🔍 📄 | ChatGot | https://www.chatgot.io/ | 🟢 Unlimited | AI chatbot assistant - No Cost, No Limits |
 | 2 | 🎨 | Perchance AI Text-to-Image | https://perchance.org/ai-text-to-image-generator | 🟢 Unlimited | No signup, multiple styles |
-| 3 | 🤖 🎨 🔍 | Venice AI | https://venice.ai/ | 🔵 Resetting Limits | Privacy-focused, uncensored AI |
+| 3 | 🤖 🎨 🔍 🔞 | Venice AI | https://venice.ai/ | 🔵 Resetting Limits | Privacy-focused, uncensored AI |
 | 4 | 🎙️ | Dubbing AI | https://dubbingai.io/ | 🔵 Resetting Limits | Real-time AI voice changer with 1000+ voices |
 | 5 | 🎵 | Sarvam AI | https://www.sarvam.ai/ | 🔴 Limited | Generate realistic speech in multiple Indian languages |
 | 6 | 🎨 🎬 | ZSky AI | https://zsky.ai/ | 🟢 Unlimited | Unlimited image + video generation. Not a trial — no card, no lock-in |
@@ -67,15 +67,15 @@ This repository aims to collect them all in one place.
 | 28 | 🎨 | There's An AI For That | https://theresanaiforthat.com/@taaft/image-generator/ | 🟢 Unlimited | Unlimited Free AI Image Generator |
 | 29 | 🧑 | SuperHumanizer | https://superhumanizer.ai/ | 🟢 Unlimited | Free AI humanizer with unlimited usage (1,200 words per request) |
 | 30 | 🎬 | VideoPlus.ai | https://videoplus.ai/ | 🔴 Limited | Text & image to AI videos |
-| 31 | 🤖 🎨 🎬  | NoFilterGpt | https://nofiltergpt.com/ | 🔵 Resetting Limits | Anonymous, Unfiltered, Uncensored AI chat |
-| 32 | ✍️ | aiWriter.ai | https://aiwriter.ai/unfiltered | 🟢 Unlimited | Unfiltered, Uncensored AI Story Writer - No Restrictions, No Limits, No Filters |
+| 31 | 🤖 🎨 🎬 🔞 | NoFilterGpt | https://nofiltergpt.com/ | 🔵 Resetting Limits | Anonymous, Unfiltered, Uncensored AI chat |
+| 32 | ✍️ 🔞 | aiWriter.ai | https://aiwriter.ai/unfiltered | 🟢 Unlimited | Unfiltered, Uncensored AI Story Writer - No Restrictions, No Limits, No Filters |
 | 33 | 🤖 | Unlimited AI Chat | https://app.unlimitedai.chat/ | 🔵 Resetting Limits | AI without limits or restrictions |
 | 34 | 🎨 | Raphael AI | https://raphael.app/ | 🟢 Unlimited | Create stunning images, No login, Unlimited free generations |
 | 35 | 🎨 | FreeForAI | https://draw.freeforai.com/ | 🟢 Unlimited | Free unlimited stunning AI image generator |
 | 36 | 🤖 ✍️ 💻 🎨 🎬 🔞 | HackAIGC | https://www.hackaigc.com/ | 🔵 Resetting Limits | Uncensored AI chats, NSFW image generation, NSFW video generation |
 | 37 | 🎨 | HiDream AI | https://hidream.org/ai-image-generator | 🟢 Unlimited | Unlimited free AI image generator |
 | 38 | 🤖 🎨 | Unrestricted AI | https://unrestricted.chat/ | 🔴 Limited | No filters, No lectures, Ask anything and get a direct response |
-| 39 | 🤖 🎨 🎬 💻 🛠️ | Locally Uncensored | https://locallyuncensored.com/ | 🟢 Unlimited | Generate Anything, Locally,  Uncensored |
+| 39 | 🤖 🎨 🎬 💻 🛠️ 🔞 | Locally Uncensored | https://locallyuncensored.com/ | 🟢 Unlimited | Generate Anything, Locally,  Uncensored |
 
 ---
 
