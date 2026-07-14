@@ -28,6 +28,7 @@ This repository aims to collect them all in one place.
 - ✍️ AI Writing
 - 🕵️ AI Detection
 - 🧑 AI Humanizer
+- 🔞 NSFW / Uncensored AI
 - 🛠️ Other AI Tools
 
 ---
@@ -45,7 +46,7 @@ This repository aims to collect them all in one place.
 | 7 | 🤖 🛠️ | miniapps.ai | https://miniapps.ai/ | 🔴 Limited | No-code platform for creating and sharing AI mini-apps |
 | 8 | 🎨 🎬 🎵 🎭 👔 | Magic Hour | https://magichour.ai/ | 🔵 Resetting Limits | Daily free credits, Watermarked exports |
 | 9 | 🎵 | Treblo | https://treblo.com/ | 🟢 Unlimited | Truly free, Create unlimited songs |
-| 10 | 🤖 | SpicyChat AI | https://spicychat.ai/ | 🟢 Unlimited | NSFW AI chat, Ads on free plan |
+| 10 | 🤖 🔞 | SpicyChat AI | https://spicychat.ai/ | 🟢 Unlimited | NSFW AI chat, Ads on free plan |
 | 11 | 🎧 | Meetily | https://meetily.ai/free-transcription | 🟢 Unlimited | Free community edition for personal use, No minute limits |
 | 12 | 🎨 | Aitubo | https://aitubo.ai/free-ai-image-generator/ | 🟢 Unlimited | Unlimited AI Art Generation (No Login) |
 | 13 | 🎨 🎬 | Vheer | https://vheer.com/ | 🟢 Unlimited | Free tier with unlimited generations, no signup, watermark-free exports |
@@ -58,7 +59,7 @@ This repository aims to collect them all in one place.
 | 20 | 🤖 | Talefy | https://talefy.ai/generate-story | 🟢 Unlimited | AI story generator (free, unlimited, no sign-up) |
 | 21 | 🎬 | Gling | https://www.gling.ai/ | 🔵 Resetting Limits | AI-powered video editing tool |
 | 22 | 🤖 | Edubrain | https://edubrain.ai/ | 🟢 Unlimited | Free plan offers unlimited usage |
-| 23 | 🤖 🎨 🎬 | FreeGF AI | https://freegf.ai/ | 🟢 Unlimited | Free unlimited AI chat with NSFW, image, and video generation |
+| 23 | 🤖 🎨 🎬 🔞 | FreeGF AI | https://freegf.ai/ | 🟢 Unlimited | Free unlimited AI chat with NSFW, image, and video generation |
 | 24 | 🧠 | MindMap AI | https://mindmapai.app/ | 🔵 Resetting Limits | 50 AI credits/month, Unlimited manual mind maps |
 | 25 | 📚 | Notegrade.ai | https://notegrade.ai/ | 🔵 Resetting Limits | AI-powered teaching assistant |
 | 26 | 🤖 | Unlimited AI | https://unlimitedai.org/ | 🟢 Unlimited | No Login, Unlimited AI Chat |
@@ -71,7 +72,7 @@ This repository aims to collect them all in one place.
 | 33 | 🤖 | Unlimited AI Chat | https://app.unlimitedai.chat/ | 🔵 Resetting Limits | AI without limits or restrictions |
 | 34 | 🎨 | Raphael AI | https://raphael.app/ | 🟢 Unlimited | Create stunning images, No login, Unlimited free generations |
 | 35 | 🎨 | FreeForAI | https://draw.freeforai.com/ | 🟢 Unlimited | Free unlimited stunning AI image generator |
-| 36 | 🤖 ✍️ 💻 🎨 🎬 | HackAIGC | https://www.hackaigc.com/ | 🔵 Resetting Limits | Uncensored AI chats, NSFW image generation, NSFW video generation |
+| 36 | 🤖 ✍️ 💻 🎨 🎬 🔞 | HackAIGC | https://www.hackaigc.com/ | 🔵 Resetting Limits | Uncensored AI chats, NSFW image generation, NSFW video generation |
 | 37 | 🎨 | HiDream AI | https://hidream.org/ai-image-generator | 🟢 Unlimited | Unlimited free AI image generator |
 | 38 | 🤖 🎨 | Unrestricted AI | https://unrestricted.chat/ | 🔴 Limited | No filters, No lectures, Ask anything and get a direct response |
 | 39 | 🤖 🎨 🎬 💻 🛠️ | Locally Uncensored | https://locallyuncensored.com/ | 🟢 Unlimited | Generate Anything, Locally,  Uncensored |
