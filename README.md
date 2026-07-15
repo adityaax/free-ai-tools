@@ -77,6 +77,7 @@ This repository aims to collect them all in one place.
 | 38 | 🤖 🎨 | Unrestricted AI | https://unrestricted.chat/ | 🔴 Limited | No filters, No lectures, Ask anything and get a direct response |
 | 39 | 🤖 🎨 🎬 💻 🛠️ 🔞 | Locally Uncensored | https://locallyuncensored.com/ | 🟢 Unlimited | Generate Anything, Locally,  Uncensored |
 | 40 | 🤖 🔞 | WyvernChat | https://locallyuncensored.com/ | 🟢 Unlimited | Unlimited conversations with diverse AI models |
+| 41 | 🤖 🎨 🔍 📄 💻 🌍 🎬 🎵 | AI Free Forever | https://aifreeforever.com/ | 🟢 Unlimited | Over 1000 free tools with no usage limits and no registration required |
 
 ---
 
