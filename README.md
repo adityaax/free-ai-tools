@@ -8,6 +8,14 @@ This repository aims to collect them all in one place.
 
 ---
 
+# 🌟 Top Picks
+
+🔥 [AI Free Forever](https://github.com/adityaax/free-ai-tools/blob/main/README.md?plain=1#L80)
+
+🔥 [Locally Uncensored](https://github.com/adityaax/free-ai-tools/blob/main/README.md?plain=1#L79)
+
+---
+
 ## 📦 What You'll Find
 
 - 🤖 Chatbots & General AI
