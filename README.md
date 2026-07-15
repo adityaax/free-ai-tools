@@ -12,7 +12,7 @@ This repository aims to collect them all in one place.
 
 🔥 [AI Free Forever](https://github.com/adityaax/free-ai-tools/blob/main/README.md?plain=1#L88)
 
-🔥 [Locally Uncensored](https://github.com/adityaax/free-ai-tools/blob/main/README.md?plain=1#L87)
+🔥 [Locally Uncensored](https://github.com/adityaax/free-ai-tools/blob/main/README.md?plain=1#L86)
 
 ---
 
@@ -84,7 +84,7 @@ This repository aims to collect them all in one place.
 | 37 | 🎨 | HiDream AI | https://hidream.org/ai-image-generator | 🟢 Unlimited | Unlimited free AI image generator |
 | 38 | 🤖 🎨 🔞 | Unrestricted AI | https://unrestricted.chat/ | 🔴 Limited | No filters, No lectures, Ask anything and get a direct response |
 | 39 | 🤖 🎨 🎬 💻 🛠️ 🔞 | Locally Uncensored | https://locallyuncensored.com/ | 🟢 Unlimited | Generate Anything, Locally,  Uncensored |
-| 40 | 🤖 🔞 | Locally Uncensored | https://locallyuncensored.com/ | 🟢 Unlimited | Unlimited conversations with diverse AI models |
+| 40 | 🤖 🔞 | WyvernChat | https://app.wyvern.chat/ | 🟢 Unlimited | Unlimited conversations with diverse AI models |
 | 41 | 🤖 🎨 🔍 📄 💻 🌍 🎬 🎵 | AI Free Forever | https://aifreeforever.com/ | 🟢 Unlimited | Over 1000 free tools with no usage limits and no registration required |
 
 ---
