@@ -74,7 +74,7 @@ This repository aims to collect them all in one place.
 | 35 | 🎨 | FreeForAI | https://draw.freeforai.com/ | 🟢 Unlimited | Free unlimited stunning AI image generator |
 | 36 | 🤖 ✍️ 💻 🎨 🎬 🔞 | HackAIGC | https://www.hackaigc.com/ | 🔵 Resetting Limits | Uncensored AI chats, NSFW image generation, NSFW video generation |
 | 37 | 🎨 | HiDream AI | https://hidream.org/ai-image-generator | 🟢 Unlimited | Unlimited free AI image generator |
-| 38 | 🤖 🎨 | Unrestricted AI | https://unrestricted.chat/ | 🔴 Limited | No filters, No lectures, Ask anything and get a direct response |
+| 38 | 🤖 🎨 🔞 | Unrestricted AI | https://unrestricted.chat/ | 🔴 Limited | No filters, No lectures, Ask anything and get a direct response |
 | 39 | 🤖 🎨 🎬 💻 🛠️ 🔞 | Locally Uncensored | https://locallyuncensored.com/ | 🟢 Unlimited | Generate Anything, Locally,  Uncensored |
 | 40 | 🤖 🔞 | Locally Uncensored | https://locallyuncensored.com/ | 🟢 Unlimited | Unlimited conversations with diverse AI models |
 | 41 | 🤖 🎨 🔍 📄 💻 🌍 🎬 🎵 | AI Free Forever | https://aifreeforever.com/ | 🟢 Unlimited | Over 1000 free tools with no usage limits and no registration required |
