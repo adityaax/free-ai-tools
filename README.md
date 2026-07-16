@@ -57,7 +57,7 @@ This repository aims to collect them all in one place.
 | 10 | 🤖 🔞 | SpicyChat AI | https://spicychat.ai/ | 🟢 Unlimited | NSFW AI chat, Ads on free plan |
 | 11 | 🎧 | Meetily | https://meetily.ai/free-transcription | 🟢 Unlimited | Free community edition for personal use, No minute limits |
 | 12 | 🎨 | Aitubo | https://aitubo.ai/free-ai-image-generator/ | 🟢 Unlimited | Unlimited AI Art Generation (No Login) |
-| 13 | 🎨 🎬 | Vheer | https://vheer.com/ | 🟢 Unlimited | Free tier with unlimited generations, no signup, watermark-free exports |
+| 13 | 🎨 🎬 | Vheer | https://vheer.com/app/text-to-image | 🟢 Unlimited | Free tier with unlimited image generations, no signup, watermark-free exports |
 | 14 | 🎨 🎬 | Creen | https://www.creen.ai/ai-image-generator | 🔵 Resetting Limits | Create Stunning AI images, videos, Free |
 | 15 | 🤖 | Overchat AI | https://overchat.ai/chat/chatgpt-free | 🟢 Unlimited | Free ChatGPT — enjoy unlimited, Without login |
 | 16 | 🧩 | Dokobot | https://dokobot.ai/ | 🟢 Unlimited | Free unlimited local browser bridge for AI agents |
