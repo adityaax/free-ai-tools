@@ -14,6 +14,8 @@ This repository aims to collect them all in one place.
 
 🔥 [Locally Uncensored](https://locallyuncensored.com/)
 
+🔥 [WizGenerator](https://wizgenerator.com/)
+
 ---
 
 ## 📦 What You'll Find
@@ -88,10 +90,10 @@ This repository aims to collect them all in one place.
 | 40 | 🤖 🔞 | WyvernChat | https://app.wyvern.chat/ | 🟢 Unlimited | Unlimited conversations with diverse AI models |
 | 41 | 🤖 🎨 🔍 📄 💻 🌍 🎵 | AI Free Forever | https://aifreeforever.com/ | 🟢 Unlimited | Over 1000 free tools with no usage limits and no registration required |
 | 42 | 🤖 🎨 🎬 🎙️ 🎵 🔍 📄 ✍️ 🌐 🌍 🛠️ | Rewind.ai | https://rewind.ai/ | 🔵 Resetting Limits | 400+ AI Tools |
-| 43| 🤖 🎬	| Ima Studio	| https://imastudio.com/	| 🔵 Resetting Limits |	Multi-model AI image & video generation |
+| 43 | 🤖 🎬	| Ima Studio	| https://imastudio.com/	| 🔵 Resetting Limits |	Multi-model AI image & video generation |
 | 44 | 🤖 📄 🎵 | AI Doc Maker | https://www.aidocmaker.com/ | 🔵 Resetting Limits | AI-powered document, presentation, spreadsheet & voiceover generator |
 | 45 | 🤖 🎨 🔍 | GPTGeminiGrok.AI | https://trygrokai.asia/ | 🔴 Limited | Browser workspace for GPT, Gemini, Grok, Claude and AI image workflows |
-| 46 | 🤖 ✍️ | WizGenerator Story Generator | https://wizgenerator.com/tools/story-generator/ | 🟢 Unlimited | Custom stories by genre, tone, characters, and plot; no signup |
+| 46 | 🎨 ✍️ 🛠️ | WizGenerator | https://wizgenerator.com/ | 🟢 Unlimited | All-in-one AI text & image generator; no signup |
 
 ---
 
