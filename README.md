@@ -44,6 +44,8 @@ This repository aims to collect them all in one place.
 
 ## 🧰 Free AI Tool Directory
 
+| 45 | 🤖 🎨 🔍 | GPTGeminiGrok.AI | https://trygrokai.asia/ | 🔴 Limited | Browser workspace for GPT, Gemini, Grok, Claude and AI image workflows |
+
 | S.No. | Capabilities | Tool | Website | Free Limit | Remarks |
 |-------|--------------|------|---------|------------|---------|
 | 1 | 🤖 🎨 🔍 📄 | ChatGot | https://www.chatgot.io/ | 🟢 Unlimited | AI chatbot assistant - No Cost, No Limits |
