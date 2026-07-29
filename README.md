@@ -44,7 +44,6 @@ This repository aims to collect them all in one place.
 
 ## 🧰 Free AI Tool Directory
 
-| 45 | 🤖 🎨 🔍 | GPTGeminiGrok.AI | https://trygrokai.asia/ | 🔴 Limited | Browser workspace for GPT, Gemini, Grok, Claude and AI image workflows |
 
 | S.No. | Capabilities | Tool | Website | Free Limit | Remarks |
 |-------|--------------|------|---------|------------|---------|
@@ -92,6 +91,7 @@ This repository aims to collect them all in one place.
 | 42 | 🤖 🎨 🎬 🎙️ 🎵 🔍 📄 ✍️ 🌐 🌍 🛠️ | Rewind.ai | https://rewind.ai/ | 🔵 Resetting Limits | 400+ AI Tools |
 | 43| 🤖 🎬	| Ima Studio	| https://imastudio.com/	| 🔵 Resetting Limits |	Multi-model AI image & video generation |
 | 44 | 🤖 📄 🎵 | AI Doc Maker | https://www.aidocmaker.com/ | 🔵 Resetting Limits | AI-powered document, presentation, spreadsheet & voiceover generator |
+| 45 | 🤖 🎨 🔍 | GPTGeminiGrok.AI | https://trygrokai.asia/ | 🔴 Limited | Browser workspace for GPT, Gemini, Grok, Claude and AI image workflows |
 
 ---
 
