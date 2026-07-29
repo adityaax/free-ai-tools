@@ -44,7 +44,6 @@ This repository aims to collect them all in one place.
 
 ## 🧰 Free AI Tool Directory
 
-
 | S.No. | Capabilities | Tool | Website | Free Limit | Remarks |
 |-------|--------------|------|---------|------------|---------|
 | 1 | 🤖 🎨 🔍 📄 | ChatGot | https://www.chatgot.io/ | 🟢 Unlimited | AI chatbot assistant - No Cost, No Limits |
