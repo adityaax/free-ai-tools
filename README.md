@@ -91,6 +91,7 @@ This repository aims to collect them all in one place.
 | 43| 🤖 🎬	| Ima Studio	| https://imastudio.com/	| 🔵 Resetting Limits |	Multi-model AI image & video generation |
 | 44 | 🤖 📄 🎵 | AI Doc Maker | https://www.aidocmaker.com/ | 🔵 Resetting Limits | AI-powered document, presentation, spreadsheet & voiceover generator |
 | 45 | 🤖 🎨 🔍 | GPTGeminiGrok.AI | https://trygrokai.asia/ | 🔴 Limited | Browser workspace for GPT, Gemini, Grok, Claude and AI image workflows |
+| 46 | 🤖 ✍️ | WizGenerator Story Generator | https://wizgenerator.com/tools/story-generator/ | 🟢 Unlimited | Custom stories by genre, tone, characters, and plot; no signup |
 
 ---
 
