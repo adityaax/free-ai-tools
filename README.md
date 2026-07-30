@@ -95,6 +95,7 @@ This repository aims to collect them all in one place.
 | 45 | 🤖 🎨 🔍 | GPTGeminiGrok.AI | https://trygrokai.asia/ | 🔴 Limited | Browser workspace for GPT, Gemini, Grok, Claude and AI image workflows |
 | 46 | 🎨 ✍️ 🛠️ | WizGenerator | https://wizgenerator.com/ | 🟢 Unlimited | All-in-one AI text & image generator; no signup |
 | 47 | 🎵 | unlimitedtts.com | https://unlimitedtts.com/ | 🟢 Unlimited | Free Unlimited Text‑to‑Speech with Natural AI Voices |
+| 48 | 🎵 | Crikk | https://crikk.com/text-to-speech | 🟢 Unlimited | Unlimited Free Text to Speech Online Tool |
 
 ---
 
