@@ -96,6 +96,7 @@ This repository aims to collect them all in one place.
 | 46 | 🎨 ✍️ 🛠️ | WizGenerator | https://wizgenerator.com/ | 🟢 Unlimited | All-in-one AI text & image generator; no signup |
 | 47 | 🎵 | unlimitedtts.com | https://unlimitedtts.com/ | 🟢 Unlimited | Free Unlimited Text‑to‑Speech with Natural AI Voices |
 | 48 | 🎵 | Crikk | https://crikk.com/text-to-speech | 🟢 Unlimited | Unlimited Free Text to Speech Online Tool |
+| 49 | ✍️ | TinyWow | https://tinywow.com/tools/write | 🟢 Unlimited | Free AI Writing Tools - No Sign-Up, No Limit |
 
 ---
 
