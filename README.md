@@ -97,6 +97,10 @@ This repository aims to collect them all in one place.
 | 47 | 🎵 | unlimitedtts.com | https://unlimitedtts.com/ | 🟢 Unlimited | Free Unlimited Text‑to‑Speech with Natural AI Voices |
 | 48 | 🎵 | Crikk | https://crikk.com/text-to-speech | 🟢 Unlimited | Unlimited Free Text to Speech Online Tool |
 | 49 | ✍️ | TinyWow | https://tinywow.com/tools/write | 🟢 Unlimited | Free AI Writing Tools - No Sign-Up, No Limit |
+| 50 | 🎨 | Ideal House | https://ideal.house/create/ai-image-generator | 🟢 Unlimited | Free AI Image Generator for Home Design Ideas |
+| 51 | 🎨 | EzMaker AI | https://ezmaker.ai/ | 🟢 Unlimited | AI Photo Editor |
+| 52 | 🤖🧩💻🎨🎬🎵🎧🔍✍️🛠️ | Easy-Peasy.AI | https://easy-peasy.ai/ | 🔵 Resetting Limits | AI Content Generator & Copywriting Assistant |
+| 53 | 🎬 | Supawork AI | https://supawork.ai/ai-image-to-video | 🟢 Unlimited | Image to Video — Instantly Animated |
 
 ---
 
