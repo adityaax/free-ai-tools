@@ -101,6 +101,7 @@ This repository aims to collect them all in one place.
 | 51 | 🎨 | EzMaker AI | https://ezmaker.ai/ | 🟢 Unlimited | AI Photo Editor |
 | 52 | 🤖🧩💻🎨🎬🎵🎧🔍✍️🛠️ | Easy-Peasy.AI | https://easy-peasy.ai/ | 🔵 Resetting Limits | AI Content Generator & Copywriting Assistant |
 | 53 | 🎬 | Supawork AI | https://supawork.ai/ai-image-to-video | 🟢 Unlimited | Image to Video — Instantly Animated |
+| 54 | 🎬 | Recapo | https://recapo.ai/ | 🔴 Limited | AI Video Editor & Movie Recap Maker |
 
 ---
 
