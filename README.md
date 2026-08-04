@@ -50,7 +50,7 @@ This repository aims to collect them all in one place.
 |-------|--------------|------|---------|------------|---------|
 | 1 | 🤖 🎨 🔍 📄 | ChatGot | https://www.chatgot.io/ | 🟢 Unlimited | AI chatbot assistant - No Cost, No Limits |
 | 2 | 🎨 | Perchance AI Text-to-Image | https://perchance.org/ai-text-to-image-generator | 🟢 Unlimited | No signup, multiple styles |
-| 3 | 🤖 🎨 🔍 🔞 | Venice AI | https://venice.ai/ | 🔵 Resetting Limits | Privacy-focused, uncensored AI |
+| 3 | 🤖 🎨 🎬 🎵 🔍 🔞 | Venice AI | https://venice.ai/ | 🔵 Resetting Limits | Privacy-focused, uncensored AI |
 | 4 | 🎙️ | Dubbing AI | https://dubbingai.io/ | 🔵 Resetting Limits | Real-time AI voice changer with 1000+ voices |
 | 5 | 🎵 | Sarvam AI | https://www.sarvam.ai/ | 🔴 Limited | Generate realistic speech in multiple Indian languages |
 | 6 | 🎨 🎬 | ZSky AI | https://zsky.ai/ | 🟢 Unlimited | Unlimited image + video generation. Not a trial — no card, no lock-in |
