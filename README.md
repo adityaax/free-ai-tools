@@ -103,6 +103,7 @@ This repository aims to collect them all in one place.
 | 53 | 🎬 | Supawork AI | https://supawork.ai/ai-image-to-video | 🟢 Unlimited | Image to Video — Instantly Animated |
 | 54 | 🎬 | Recapo | https://recapo.ai/ | 🔴 Limited | AI Video Editor & Movie Recap Maker |
 | 55 | 🎨 | Imagefree | https://imagefree.org/ | 🟢 Unlimited | Truly Unlimited, Instant Text to Image AI |
+| 56 | 🎨 | Whisk AI | https://www.whisk-ai.net/ | 🟢 Unlimited | Image Remixer Lets You Create Stunning Visuals |
 
 ---
 
