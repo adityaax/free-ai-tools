@@ -164,10 +164,9 @@ Please include:
 
 Thanks to these amazing people for contributing to this project:
 
-[@Maynor](https://github.com/xianyu110)\
-[@WizGenerator](https://github.com/wizgenerator)\
-[@clipcurator](https://github.com/clipcurator)\
-[@InsightFactoryAPP](https://github.com/InsightFactoryAPP)
+<a href="https://github.com/adityaax/free-ai-tools/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=adityaax/free-ai-tools" />
+</a>
 
 ---
 
