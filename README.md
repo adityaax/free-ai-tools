@@ -166,7 +166,8 @@ Thanks to these amazing people for contributing to this project:
 
 [@Maynor](https://github.com/xianyu110)\
 [@WizGenerator](https://github.com/wizgenerator)\
-[@clipcurator](https://github.com/clipcurator)
+[@clipcurator](https://github.com/clipcurator)\
+[@InsightFactoryAPP](https://github.com/InsightFactoryAPP)
 
 ---
 
