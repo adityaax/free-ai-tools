@@ -129,6 +129,7 @@ This repository aims to collect them all in one place.
 | 66 | ⚡ 🎬 🎨 🛠️ | PromptSpace | https://www.promptspace.in/ | 🟢 Unlimited | 5,000+ free prompts, AI image generator, video, upscaler, logo etc., — no signup, browser-based |
 | 67 | 📊 | Smallppt | https://smallppt.com/ | 🔴 Limited | AI-powered presentation maker for creating professional slides |
 | 68 | 🧩 💻 | YYLO | https://yylo.dev/ | 🟢 Unlimited | Open-source command-line orchestrator for AI coding agents with typed task and merge workflows — free, MIT, BYOK |
+| 69 | 🌍 🎨 | Manga Translator | https://www.mangatranslate.com/ | 🔵 Resetting Limits | AI-powered manga translation with original artwork preservation |
 
 ---
 
