@@ -130,6 +130,7 @@ This repository aims to collect them all in one place.
 | 67 | 📊 | Smallppt | https://smallppt.com/ | 🔴 Limited | AI-powered presentation maker for creating professional slides |
 | 68 | 🧩 💻 | YYLO | https://yylo.dev/ | 🟢 Unlimited | Open-source command-line orchestrator for AI coding agents with typed task and merge workflows — free, MIT, BYOK |
 | 69 | 🌍 🎨 | Manga Translator | https://www.mangatranslate.com/ | 🔵 Resetting Limits | AI-powered manga translation with original artwork preservation |
+| 70 | ✍️ | ImagineYourBook | https://www.imagineyourbook.com/ | 🔴 Limited | Plans and drafts full books chapter by chapter, with Word/EPUB export. Free trial includes one short book |
 
 ---
 
