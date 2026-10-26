@@ -131,7 +131,7 @@ This repository aims to collect them all in one place.
 | 68 | 🧩 💻 | YYLO | https://yylo.dev/ | 🟢 Unlimited | Open-source command-line orchestrator for AI coding agents with typed task and merge workflows — free, MIT, BYOK |
 | 69 | 🌍 🎨 | Manga Translator | https://www.mangatranslate.com/ | 🔵 Resetting Limits | AI-powered manga translation with original artwork preservation |
 | 70 | ✍️ | ImagineYourBook | https://www.imagineyourbook.com/ | 🔴 Limited | AI book-writing app for turning ideas and notes into complete manuscript drafts |
-| 71 | 🧩 🌐 | deed.page | https://deed.page/ | 🔵 Resetting Limits | Lets AI agents publish HTML pages and static sites to a public URL via API, MCP or curl. Free plan: 25 sites, 60 publishes/hour, no signup |
+| 71 | 🧩 🌐 | deed.page | https://deed.page/ | 🔴 Limited | Allows AI agents to publish static webpages and HTML content |
 
 ---
 
