@@ -132,6 +132,7 @@ This repository aims to collect them all in one place.
 | 69 | 🌍 🎨 | Manga Translator | https://www.mangatranslate.com/ | 🔵 Resetting Limits | AI-powered manga translation with original artwork preservation |
 | 70 | ✍️ | ImagineYourBook | https://www.imagineyourbook.com/ | 🔴 Limited | AI book-writing app for turning ideas and notes into complete manuscript drafts |
 | 71 | 🧩 🌐 | deed.page | https://deed.page/ | 🔴 Limited | Allows AI agents to publish static webpages and HTML content |
+| 72 | 🤖 📚 | StudyArena | https://studyarena.com/ | 🔴 Limited | Allows users to compare responses from multiple AI models side by side |
 
 ---
 
